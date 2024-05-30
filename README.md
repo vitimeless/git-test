@@ -1,3 +1,3 @@
 # git-test
 
-hi, how r u
+hi, how r us
